@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Frontend development **HTML,CSS,Javascript**
 
-- 👨‍💻 All of my projects are available at [https://neocities.org/dashboard](https://neocities.org/dashboard)
+- 👨‍💻 All of my projects are available at [https://github.com/Jayasurya-wolf](https://github.com/Jayasurya-wolf)
 
 - 📫 How to reach me **jjaurya446@gmail.com**
 
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayasurya-wolf&show_icons=true&locale=en" alt="jayasurya-wolf" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayasurya-wolf&" alt="jayasurya-wolf" /></p>
+
